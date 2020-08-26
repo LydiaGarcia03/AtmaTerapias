@@ -1,0 +1,22 @@
+/*	Logo	*/
+img.logo{
+	margin: 0px 5rem !important;
+}
+
+/*	Menu	*/
+header div.header{
+	background: #FAEBD7;
+}
+ul#menu{
+	list-style-type: none;
+	display: inline-block !important;
+	list-style-type: none !important;
+	width: 100%;
+	margin-bottom: 0 !important;
+	padding: 0 !important;
+	margin-top: 2.5rem;
+}	
+li{
+	float: right;
+	margin: 0rem 1rem;
+}
